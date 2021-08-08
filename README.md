@@ -1,0 +1,3 @@
+# Investing CLI
+
+### Rough Draph
